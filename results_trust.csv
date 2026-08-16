@@ -1,0 +1,9 @@
+confidence,environment,mean_psi,val_f1,trust,decision
+0.95,in-domain 4G,0.0,0.394,0.354,VERIFY
+0.95,out-of-domain 5G,0.433,0.394,0.063,REJECT
+0.8,in-domain 4G,0.0,0.394,0.236,VERIFY
+0.8,out-of-domain 5G,0.433,0.394,0.042,REJECT
+0.65,in-domain 4G,0.0,0.394,0.118,REJECT
+0.65,out-of-domain 5G,0.433,0.394,0.021,REJECT
+0.55,in-domain 4G,0.0,0.394,0.039,REJECT
+0.55,out-of-domain 5G,0.433,0.394,0.007,REJECT
